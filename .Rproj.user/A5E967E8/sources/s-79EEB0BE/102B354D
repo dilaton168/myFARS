@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1522637218094.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "766175790",
+    "id" : "102B354D",
+    "lastKnownWriteTime" : 1522638197,
+    "last_content_update" : 1522638197454,
+    "path" : "~/R/Course 3 Week 4/myFARS/R/fars_functions.R",
+    "project_path" : "R/fars_functions.R",
+    "properties" : {
+        "cursorPosition" : "9,37",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
